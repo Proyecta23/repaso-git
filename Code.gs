@@ -1,11 +1,32 @@
+/**
+ * Script de práctica - Academia Apps Script
+ * Autor: Ivan Beltran
+ * Fecha: 2026-02-07
+ * Propósito: Demostrar Git + GitHub + clasp workflow
+ */
+
+/**
+ * Función de saludo básica
+ * Imprime mensaje de bienvenida en el log
+ */
 function saludar() {
   Logger.log('Hola Mundo');
 }
 
+/**
+ * Función de despedida
+ * Imprime mensaje de despedida en el log
+ */
 function despedirse() {
   Logger.log('Adiós Mundo');
 }
 
+/**
+ * Multiplica dos números
+ * @param {number} a - Primer número
+ * @param {number} b - Segundo número
+ * @returns {number} El producto de a * b
+ */
 function multiplicar(a, b) {
   return a * b;
 }
