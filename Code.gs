@@ -30,3 +30,13 @@ function despedirse() {
 function multiplicar(a, b) {
   return a * b;
 }
+```
+
+### 4️⃣ Hacer commit
+- Scroll abajo hasta **"Commit changes"**
+- **Commit message:** `Agregada documentación JSDoc completa`
+- **Extended description:**
+```
+- Agregado header con información del proyecto
+- Documentadas todas las funciones con JSDoc
+- Agregados comentarios descriptivos
