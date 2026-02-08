@@ -7,3 +7,6 @@ function despedirse() {
 }unction saludar() {
      Logger.log('Hola Mundo');
    }
+function multiplicar(a, b) {
+  return a * b;
+}
